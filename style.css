@@ -14,6 +14,14 @@ a, a:hover {
   color: #7289DA;
 }
 
+a.exist, a.exist:hover {
+  color: #7289DA; 
+}
+
+a.notexist, a.notexist:hover {
+  color: #FF1A1A;
+}
+
 .modal-dialog {
   color: #000;
 }
